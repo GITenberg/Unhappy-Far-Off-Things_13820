@@ -1,0 +1,34 @@
+_repo: Unhappy-Far-Off-Things_13820
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dunsany, Lord
+    aliases:
+    - Plunkett, Edward John Moreton Drax, Baron Dunsany
+    - Dunsany, Edward John Moreton Drax Plunkett, Baron
+    birthdate: 1878
+    deathdate: 1957
+    gutenberg_agent_id: '2685'
+    url: http://www.gutenberg.org/2009/agents/2685
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Plunkett,_18th_Baron_Dunsany
+description: Title; Contents; Preface; A Dirge of Victory (Sonnet); The Cathedral
+  of Arras; A Good War; The House with Two Storeys; Bermondsey Versus Wurtemburg;
+  On an Old Battle-Field; The Real Thing; A Garden of Arras; After Hell; A Happy Valley;
+  In Bethune; In an Old Drawing-Room; The Homes of Arras;
+gutenberg_bookshelf: Fantasy
+gutenberg_issued: '2004-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13820'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- France'
+- !lcc 'D501'
+title: Unhappy Far-Off Things
+url: http://www.gutenberg.org/ebooks/13820
